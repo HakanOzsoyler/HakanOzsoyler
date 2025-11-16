@@ -1,20 +1,43 @@
+# Hi, I'm Hakan 👋
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hakan</h1>
-<h3 align="center">I'm a passionate Mobile App Developer from Turkey.</h3>
+**Senior Flutter & Mobile Engineer · Full-Stack Developer (Laravel/PHP)**
 
+I build production-grade mobile applications with Flutter – from MVPs to complex ERP, POS, logistics and F&B solutions.
 
-## 🙋‍♂️ About Me
+## 👤 About
 
-<!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
+- 5+ years of hands-on experience in mobile & web development  
+- Strong focus on **Flutter/Dart** and **clean architecture**  
+- Shipped apps in ERP, POS, F&B, logistics/delivery, VPN, CRM and finance domains  
+- Comfortable owning the full stack: Flutter frontends + Laravel/PHP backends  
+- Enjoy turning messy business flows into simple, fast, reliable UX
 
-- 🌱 I’m currently learning **JavaScript**
+## 🛠 Tech stack
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- **Mobile:** Flutter, Dart, BLoC, Provider, GetX, Riverpod, Clean Architecture, MVVM  
+- **Backend:** PHP, Laravel, REST APIs (GraphQL-ready), authentication, RBAC, queues, caching  
+- **Data:** MySQL/PostgreSQL, SQLite, Firebase  
+- **Infra & Tools:** Git, CI/CD, HTTP clients, WebSockets, push notifications, maps
 
-- 👨‍💻 My Personal website is  **[here](http://hakanozsoyler.gq)**
+## 🚀 Selected work (live / case studies)
 
-- 📫 How to reach me **ozsoylerhakan@hotmail.com**
+These apps are described in detail on my portfolio site and client projects:
 
+- **Operon ERP** – Enterprise mobile ERP (offline-first, thousands of records, BLoC, clean architecture)  
+- **BiKasik** – Multi-role food ordering & delivery (F&B), Flutter + GetX, maps, notifications  
+- **Self Order Kiosk** – Kiosk-first ordering & payment experience for F&B  
+- **Auto Vignette** – Cross-border travel planning (routes, vignettes, tolls, payments)  
+- **Courier CRM** – Courier & delivery operations (routing, QR/barcode, live tracking)  
+- **Oto CRM** – CRM & operations for car wash / parking businesses  
+- **Andrico** – Offline-first AAC communication app (SQLite, MVVM, clean architecture)
+
+> Some of these are private client repositories; you can find videos, explanations and details on my portfolio site.
+
+## 📫 Contact
+
+- Email: [email protected]
+- Location: Gaziantep, Turkey
+- Portfolio: hakanozsoyler.com.tr
 
 
 ## 🚀 Languages and Tools:
