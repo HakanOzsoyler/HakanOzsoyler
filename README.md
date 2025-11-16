@@ -35,7 +35,7 @@ These apps are described in detail on my portfolio site and client projects:
 
 ## 📫 Contact
 
-- Email: [email protected]
+- Email: ozsoylerhakan@hotmail.com
 - Location: Gaziantep, Turkey
 - Portfolio: hakanozsoyler.com.tr
 
@@ -60,34 +60,12 @@ These apps are described in detail on my portfolio site and client projects:
 </p>
 
 
-<br/>
-
-<p align="center">
-    <a href="https://github.com/hakanozsoyler/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hakan Ozsoyler streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hakanozsoyler&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/hakanozsoyler/github-readme-stats"><img alt="Hakan Github Stats" src="https://github-readme-stats.vercel.app/api?username=hakanozsoyler&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/hakanozsoyler/github-readme-stats"><img alt="Hakan Ozsoyler Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakanozsoyler&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
- <!--  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
- -->
-
-<br/>
-<br/>
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/hakan-özsöyler-330b86229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "http://hakanozsoyler.gq/"><img src="https://img.icons8.com/fluent/48/000000/web"/></a>
+<a href = "https://hakanozsoyler.com.tr/"><img src="https://img.icons8.com/fluent/48/000000/web"/></a>
 <a href = "mailto:ozsoylerhakan@hotmail.com"><img src="https://img.icons8.com/fluent/48/000000/mail"/></a>
 
 <!-- http://hakanozsoyler.gq/ -->
